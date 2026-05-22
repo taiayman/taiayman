@@ -2,12 +2,6 @@
 
 I build mobile apps, AI-powered tools, and full-stack products — mostly with Flutter, Next.js, and whatever model API shipped this week.
 
-Currently building [Dartivo](https://dartivo.vercel.app) — describe an app in plain English, get a working Flutter project back. AI-generated mobile apps with live preview, web IDE, and on-device testing.
-
-Previously shipped edtech platforms for Moroccan students, business management tools, real-time chat systems, and more.
-
-Based in Morocco. Building at [@Shipper-dot-now](https://github.com/Shipper-dot-now).
-
 ---
 
 <details>
