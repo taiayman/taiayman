@@ -1,24 +1,17 @@
-### Hey, I'm Ayman.
+### Ayman Tai
 
-I build mobile apps, AI-powered tools, and full-stack products — mostly with Flutter, Next.js, and whatever model API shipped this week.
+Software engineer in Morocco. I ship Flutter apps and AI-powered tools — currently focused on on-device and multimodal AI for consumer mobile.
 
----
+#### Selected work
 
-<details>
-<summary>What I work with</summary>
+- **[hidden-camera-detector-ai](https://github.com/taiayman/hidden-camera-detector-ai)** — 6-mode anti-surveillance scanner (AI lens, WiFi, BT, IR, magnetometer, reflection). Flutter + Gemma 3 vision. [Live on Play Store](https://play.google.com/store/apps/details?id=com.qrmagic.scanner).
+- **[gemini-variant-hunter](https://github.com/taiayman/gemini-variant-hunter)** — Automates AI Studio sessions to surface Gemini 3 A/B variants for prompt research.
+- **[ai-prompt-toolkit](https://github.com/taiayman/ai-prompt-toolkit)** — Interactive prompt templates and builder.
 
-<br>
+#### Stack
 
-**Mobile** — Flutter, Dart, React Native
+Flutter · Dart · TypeScript · Next.js · Node · Postgres · Firebase / Supabase · Gemini / Claude / OpenAI APIs · TFLite
 
-**Frontend** — Next.js, React, TypeScript, Tailwind CSS
+#### Reach
 
-**Backend** — Node.js, Firebase, Supabase, Prisma, PostgreSQL
-
-**AI/ML** — Gemini API, OpenAI API, prompt engineering, AI code generation
-
-**Infrastructure** — Vercel, Google Cloud Run, Docker
-
-</details>
-
-<br>
+Available for contract work — [Upwork](https://www.upwork.com/freelancers/aymant10).
